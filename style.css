@@ -164,7 +164,7 @@ body {
 
 .btn-nav {
   background: var(--accent) !important;
-  color: var(--dark) !important;
+  color: var(--white) !important;
   padding: 10px 24px !important;
   border-radius: 8px !important;
   font-weight: 600 !important;
@@ -213,7 +213,7 @@ body {
 
 .btn-primary {
   background: var(--accent);
-  color: var(--dark);
+  color: var(--white);
   padding: 14px 32px;
 }
 
@@ -1066,7 +1066,7 @@ body {
 
 .cookie-btn-accept {
   background: var(--accent);
-  color: var(--dark);
+  color: var(--white);
 }
 
 .cookie-btn-accept:hover {
