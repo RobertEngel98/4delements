@@ -44,19 +44,23 @@
 }
 
 :root {
-  --primary: #2563eb;
-  --primary-dark: #1d4ed8;
-  --primary-light: #3b82f6;
-  --accent: #06b6d4;
-  --dark: #0f172a;
-  --dark-2: #1e293b;
-  --dark-3: #334155;
-  --gray: #64748b;
-  --gray-light: #94a3b8;
-  --light: #f1f5f9;
-  --light-2: #e2e8f0;
+  --primary: #1B3A5C;
+  --primary-dark: #142D48;
+  --primary-light: #264D73;
+  --accent: #6EC8DB;
+  --accent-dark: #4FB8CE;
+  --red: #E31E24;
+  --red-dark: #C41A1F;
+  --dark: #0D1B2A;
+  --dark-2: #1B2D3E;
+  --dark-3: #2C4257;
+  --gray: #5A7082;
+  --gray-light: #8BA3B5;
+  --light: #F0F5F8;
+  --light-2: #DAE4EC;
   --white: #ffffff;
   --gradient: linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%);
+  --gradient-red: linear-gradient(135deg, var(--red) 0%, var(--primary) 100%);
   --radius: 12px;
   --radius-lg: 20px;
   --shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
@@ -159,7 +163,7 @@ body {
 }
 
 .btn-nav {
-  background: var(--gradient) !important;
+  background: var(--red) !important;
   color: var(--white) !important;
   padding: 10px 24px !important;
   border-radius: 8px !important;
@@ -167,8 +171,9 @@ body {
 }
 
 .btn-nav:hover {
+  background: var(--red-dark) !important;
   transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.4);
+  box-shadow: 0 4px 12px rgba(227, 30, 36, 0.4);
 }
 
 .nav-toggle {
@@ -207,14 +212,15 @@ body {
 }
 
 .btn-primary {
-  background: var(--gradient);
+  background: var(--red);
   color: var(--white);
   padding: 14px 32px;
 }
 
 .btn-primary:hover {
+  background: var(--red-dark);
   transform: translateY(-2px);
-  box-shadow: 0 8px 24px rgba(37, 99, 235, 0.35);
+  box-shadow: 0 8px 24px rgba(227, 30, 36, 0.35);
 }
 
 .btn-outline {
@@ -255,7 +261,7 @@ body {
   right: -200px;
   width: 600px;
   height: 600px;
-  background: radial-gradient(circle, rgba(37, 99, 235, 0.08) 0%, transparent 70%);
+  background: radial-gradient(circle, rgba(27, 58, 92, 0.08) 0%, transparent 70%);
   border-radius: 50%;
 }
 
@@ -266,7 +272,7 @@ body {
   left: -100px;
   width: 400px;
   height: 400px;
-  background: radial-gradient(circle, rgba(6, 182, 212, 0.06) 0%, transparent 70%);
+  background: radial-gradient(circle, rgba(110, 200, 219, 0.06) 0%, transparent 70%);
   border-radius: 50%;
 }
 
@@ -281,7 +287,7 @@ body {
 
 .hero-badge {
   display: inline-block;
-  background: rgba(37, 99, 235, 0.08);
+  background: rgba(27, 58, 92, 0.08);
   color: var(--primary);
   padding: 8px 16px;
   border-radius: 100px;
@@ -362,8 +368,8 @@ body {
   position: absolute;
   width: 250px;
   height: 250px;
-  border: 2px solid rgba(37, 99, 235, 0.15);
-  background: rgba(37, 99, 235, 0.03);
+  border: 2px solid rgba(27, 58, 92, 0.15);
+  background: rgba(27, 58, 92, 0.03);
   border-radius: var(--radius);
 }
 
@@ -434,7 +440,7 @@ body {
 
 .section-tag {
   display: inline-block;
-  background: rgba(37, 99, 235, 0.1);
+  background: rgba(27, 58, 92, 0.1);
   color: var(--primary-light);
   padding: 6px 14px;
   border-radius: 100px;
@@ -446,7 +452,7 @@ body {
 }
 
 .section-dark .section-tag {
-  background: rgba(37, 99, 235, 0.2);
+  background: rgba(27, 58, 92, 0.2);
 }
 
 .section-header h2 {
@@ -491,7 +497,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: rgba(37, 99, 235, 0.08);
+  background: rgba(27, 58, 92, 0.08);
   border-radius: 12px;
   margin-bottom: 20px;
 }
@@ -533,8 +539,8 @@ body {
 }
 
 .advantage:hover {
-  border-color: rgba(37, 99, 235, 0.4);
-  background: rgba(37, 99, 235, 0.05);
+  border-color: rgba(27, 58, 92, 0.4);
+  background: rgba(27, 58, 92, 0.05);
 }
 
 .advantage-num {
@@ -631,8 +637,8 @@ body {
 }
 
 .faq-item[open] {
-  border-color: rgba(37, 99, 235, 0.3);
-  background: rgba(37, 99, 235, 0.05);
+  border-color: rgba(27, 58, 92, 0.3);
+  background: rgba(27, 58, 92, 0.05);
 }
 
 .faq-item summary {
@@ -693,7 +699,7 @@ body {
   right: -100px;
   width: 300px;
   height: 300px;
-  background: radial-gradient(circle, rgba(37, 99, 235, 0.2) 0%, transparent 70%);
+  background: radial-gradient(circle, rgba(27, 58, 92, 0.2) 0%, transparent 70%);
   border-radius: 50%;
 }
 
@@ -1059,13 +1065,14 @@ body {
 }
 
 .cookie-btn-accept {
-  background: var(--gradient);
+  background: var(--red);
   color: var(--white);
 }
 
 .cookie-btn-accept:hover {
+  background: var(--red-dark);
   transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.4);
+  box-shadow: 0 4px 12px rgba(227, 30, 36, 0.4);
 }
 
 .cookie-btn-reject {
