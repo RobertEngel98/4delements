@@ -163,17 +163,17 @@ body {
 }
 
 .btn-nav {
-  background: var(--red) !important;
-  color: var(--white) !important;
+  background: var(--accent) !important;
+  color: var(--dark) !important;
   padding: 10px 24px !important;
   border-radius: 8px !important;
   font-weight: 600 !important;
 }
 
 .btn-nav:hover {
-  background: var(--red-dark) !important;
+  background: var(--accent-dark) !important;
   transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(227, 30, 36, 0.4);
+  box-shadow: 0 4px 12px rgba(110, 200, 219, 0.4);
 }
 
 .nav-toggle {
@@ -212,15 +212,15 @@ body {
 }
 
 .btn-primary {
-  background: var(--red);
-  color: var(--white);
+  background: var(--accent);
+  color: var(--dark);
   padding: 14px 32px;
 }
 
 .btn-primary:hover {
-  background: var(--red-dark);
+  background: var(--accent-dark);
   transform: translateY(-2px);
-  box-shadow: 0 8px 24px rgba(227, 30, 36, 0.35);
+  box-shadow: 0 8px 24px rgba(110, 200, 219, 0.4);
 }
 
 .btn-outline {
@@ -1065,14 +1065,14 @@ body {
 }
 
 .cookie-btn-accept {
-  background: var(--red);
-  color: var(--white);
+  background: var(--accent);
+  color: var(--dark);
 }
 
 .cookie-btn-accept:hover {
-  background: var(--red-dark);
+  background: var(--accent-dark);
   transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(227, 30, 36, 0.4);
+  box-shadow: 0 4px 12px rgba(110, 200, 219, 0.4);
 }
 
 .cookie-btn-reject {
