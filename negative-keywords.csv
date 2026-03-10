@@ -1,0 +1,88 @@
+Campaign,Negative Keyword,Match Type,Level
+[Account Level],"kostenlos",Broad,Account
+[Account Level],"gratis",Broad,Account
+[Account Level],"free",Broad,Account
+[Account Level],"download",Broad,Account
+[Account Level],"software kaufen",Broad,Account
+[Account Level],"software lizenz",Broad,Account
+[Account Level],"lernen",Broad,Account
+[Account Level],"kurs",Broad,Account
+[Account Level],"tutorial",Broad,Account
+[Account Level],"ausbildung",Broad,Account
+[Account Level],"studium",Broad,Account
+[Account Level],"weiterbildung",Broad,Account
+[Account Level],"schulung",Broad,Account
+[Account Level],"gehalt",Broad,Account
+[Account Level],"beruf",Broad,Account
+[Account Level],"job",Broad,Account
+[Account Level],"jobs",Broad,Account
+[Account Level],"stellenangebot",Broad,Account
+[Account Level],"karriere",Broad,Account
+[Account Level],"praktikum",Broad,Account
+[Account Level],"werkstudent",Broad,Account
+[Account Level],"bachelor",Broad,Account
+[Account Level],"master",Broad,Account
+[Account Level],"thesis",Broad,Account
+[Account Level],"vorlage",Broad,Account
+[Account Level],"template",Broad,Account
+[Account Level],"youtube",Broad,Account
+[Account Level],"selber machen",Broad,Account
+[Account Level],"DIY",Broad,Account
+[Account Level],"hobby",Broad,Account
+[Account Level],"privat",Broad,Account
+[Account Level],"zuhause",Broad,Account
+[Account Level],"gebraucht",Broad,Account
+[Account Level],"open source",Broad,Account
+[Account Level],"freeware",Broad,Account
+[Account Level],"wiki",Broad,Account
+[Account Level],"wikipedia",Broad,Account
+[Account Level],"forum",Broad,Account
+[Account Level],"geschenk",Broad,Account
+[Account Level],"modellbau",Broad,Account
+[Account Level],"miniatur",Broad,Account
+[Account Level],"figur",Broad,Account
+[Account Level],"spielzeug",Broad,Account
+[Account Level],"cosplay",Broad,Account
+[Account Level],"schmuck",Broad,Account
+[Account Level],"deko",Broad,Account
+[Account Level],"dekoration",Broad,Account
+[Account Level],"basteln",Broad,Account
+4DE - CAD Konstruktion,"CAD programm",Broad,Campaign
+4DE - CAD Konstruktion,"CAD lernen",Broad,Campaign
+4DE - CAD Konstruktion,"SolidWorks preis",Broad,Campaign
+4DE - CAD Konstruktion,"SolidWorks lizenz",Broad,Campaign
+4DE - CAD Konstruktion,"SolidWorks student",Broad,Campaign
+4DE - CAD Konstruktion,"Solid Edge download",Broad,Campaign
+4DE - CAD Konstruktion,"AutoCAD lizenz",Broad,Campaign
+4DE - CAD Konstruktion,"Autodesk student",Broad,Campaign
+4DE - CAD Konstruktion,"Zeichenprogramm",Broad,Campaign
+4DE - 3D Druck,"3D Drucker kaufen",Broad,Campaign
+4DE - 3D Druck,"3D Drucker test",Broad,Campaign
+4DE - 3D Druck,"3D Drucker vergleich",Broad,Campaign
+4DE - 3D Druck,"3D Drucker für zuhause",Broad,Campaign
+4DE - 3D Druck,"filament kaufen",Broad,Campaign
+4DE - 3D Druck,"resin kaufen",Broad,Campaign
+4DE - 3D Druck,"3D Drucker bauen",Broad,Campaign
+4DE - 3D Druck,"3D Drucker bausatz",Broad,Campaign
+4DE - 3D Druck,"3D Drucker günstig",Broad,Campaign
+4DE - 3D Druck,"Creality",Broad,Campaign
+4DE - 3D Druck,"Bambu Lab",Broad,Campaign
+4DE - 3D Druck,"Prusa",Broad,Campaign
+4DE - 3D Druck,"Anycubic",Broad,Campaign
+4DE - 3D Druck,"Ender 3",Broad,Campaign
+4DE - 3D Druck,"thingiverse",Broad,Campaign
+4DE - 3D Druck,"STL download",Broad,Campaign
+4DE - Reverse Engineering,"software reverse engineering",Broad,Campaign
+4DE - Reverse Engineering,"code reverse engineering",Broad,Campaign
+4DE - Reverse Engineering,"app reverse engineering",Broad,Campaign
+4DE - Reverse Engineering,"malware",Broad,Campaign
+4DE - Reverse Engineering,"hacking",Broad,Campaign
+4DE - Reverse Engineering,"decompiler",Broad,Campaign
+4DE - Reverse Engineering,"firmware",Broad,Campaign
+4DE - Reverse Engineering,"cyber",Broad,Campaign
+4DE - Reverse Engineering,"IT security",Broad,Campaign
+4DE - Technische Doku,"Microsoft Word",Broad,Campaign
+4DE - Technische Doku,"Word Vorlage",Broad,Campaign
+4DE - Technische Doku,"PDF erstellen",Broad,Campaign
+4DE - Technische Doku,"technischer Redakteur Stellenangebot",Broad,Campaign
+4DE - Technische Doku,"technischer Redakteur Gehalt",Broad,Campaign
